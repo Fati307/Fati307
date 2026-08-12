@@ -21,10 +21,15 @@
 ```python
 class FatimaZahra:
     def __init__(self):
-        self.role       = "AI / Agentic Systems Developer"
-        self.focus      = ["Multi-Agent Architectures", "LLM Orchestration", "Applied AI"]
-        self.mission    = "Turn research-grade AI ideas into real, working applications"
-        self.currently  = "Building autonomous multi-agent pipelines 🤖⚙️"
+        self.role = "AI Engineer | Agentic AI & Computer Vision"
+        self.focus = [
+            "Agentic AI",
+            "Computer Vision",
+            "Machine Learning",
+            "LLM & RAG Systems"
+        ]
+        self.mission = "Turn research-grade AI ideas into real, working applications"
+        self.currently = "Building intelligent AI systems with vision, graphs and multi-agent reasoning 🤖⚙️"
 
     def say_hi(self):
         return "Let's build something intelligent together 🚀"
